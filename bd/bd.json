@@ -1,0 +1,64 @@
+{
+  "jobOpenings": [
+    {
+      "id": "1",
+      "title": "Desarrollador Frontend",
+      "company": "Globant",
+      "location": "Buenos Aires, Argentina"
+    },
+    {
+      "id": "2",
+      "title": "Diseñador UI/UX",
+      "company": "Mercado Libre",
+      "location": "Ciudad de México, México"
+    },
+    {
+      "id": "3",
+      "title": "Ingeniero de Software",
+      "company": "Despegar",
+      "location": "Montevideo, Uruguay"
+    },
+    {
+      "id": "4",
+      "title": "Project Manager",
+      "company": "Rappi",
+      "location": "Bogotá, Colombia"
+    },
+    {
+      "id": "5",
+      "title": "Desarrollador Backend",
+      "company": "BairesDev",
+      "location": "Santiago, Chile"
+    },
+    {
+      "id": "6",
+      "title": "Analista de Datos",
+      "company": "Accenture",
+      "location": "Lima, Perú"
+    },
+    {
+      "id": "7",
+      "title": "Ingeniero DevOps",
+      "company": "Softtek",
+      "location": "Guadalajara, México"
+    },
+    {
+      "id": "8",
+      "title": "Especialista en Ciberseguridad",
+      "company": "Telefónica",
+      "location": "Santiago, Chile"
+    },
+    {
+      "id": "9",
+      "title": "Ingeniero de Sistemas",
+      "company": "Everis",
+      "location": "Quito, Ecuador"
+    },
+    {
+      "id": "10",
+      "title": "Arquitecto de Soluciones",
+      "company": "Indra",
+      "location": "Montevideo, Uruguay"
+    }
+  ]
+}
